@@ -1,16 +1,25 @@
-# firebase_storage_project
+# Flutter Firebase Storage Project
 
-A new Flutter project.
+This is a project using firebase storage 5.1.0.<br>
 
-## Getting Started
+## App Features
+- Pick multiple images from gallery.<br>
+- Upload All Images to firebase storage.<br>
+- Add Link for images into cloud firestore.<br>
+- Show uploading progress while uploading into firebase storage.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorials:
 
-A few resources to get you started if this is your first Flutter project:
+- [Firebase Storage | Upload And Retrieve Multiple Images Step By Step Tutorial](https://youtu.be/Z-FLekHk7LQ)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Cloud Firestore](https://pub.dev/packages/cloud_firestore)
+- [Firebase Storage](https://pub.dev/packages/firebase_storage)
+- [Firebase Core](https://bit.ly/3lSrhDt)
+- [Image Picker](https://bit.ly/2HFbadx)
+- [Transparent Image](https://pub.dev/packages/transparent_image)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
